@@ -1,0 +1,36 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.calc{
+  width: 320px;
+  margin: 100px auto;
+}
+
+.calc input[type="text"]{
+  width: 88%;
+  height: 60px;
+  font-size: 2rem;
+  text-align: right;
+  padding: 0 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.button{
+  width: 80px;
+  height: 80px;
+  font-size: 2rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+  float: left;
+}
+
+.button1{
+  width: 160px;
+}
