@@ -134,6 +134,9 @@ input[type="button"]:hover {
 }
 ```
 
+## How it looks like
+![calculator](src/images/image.png)
+
 ## License
 
 This project is open-sourced under the MIT License. For more details, refer to the [LICENSE](LICENSE) file.

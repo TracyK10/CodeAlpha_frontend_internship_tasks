@@ -139,6 +139,9 @@ footer {
 }
 ```
 
+## How it looks like
+![Gallery](image.png)
+
 ## License
 
 This project is open-sourced under the MIT License. For more details, refer to the [LICENSE](LICENSE) file.
