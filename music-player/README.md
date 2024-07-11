@@ -258,7 +258,7 @@ The CSS file provides styling for the music player, ensuring a clean and respons
 ```
 
 ## How it looks like
-![![alt text](src/assets/image.png)](image.png)
+![screenshot](src/assets/image.png)
 
 ## License
 
