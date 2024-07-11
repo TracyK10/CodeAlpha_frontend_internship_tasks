@@ -257,6 +257,9 @@ The CSS file provides styling for the music player, ensuring a clean and respons
 }
 ```
 
+## How it looks like
+![![alt text](src/assets/image.png)](image.png)
+
 ## License
 
 This project is open-sourced under the MIT License. For more details, refer to the [LICENSE](LICENSE) file.
