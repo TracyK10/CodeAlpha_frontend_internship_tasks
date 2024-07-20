@@ -4,13 +4,15 @@ This repository contains a collection of projects developed during the frontend 
 
 ## Table of Contents
 
-- [Projects](#projects)
-  - [Image Gallery](#image-gallery)
-  - [Calculator App](#calculator-app)
-  - [Music Player](#music-player)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
+- [CodeAlpha Frontend Internship Projects](#codealpha-frontend-internship-projects)
+  - [Table of Contents](#table-of-contents)
+  - [Projects](#projects)
+    - [Image Gallery](#image-gallery)
+    - [Calculator App](#calculator-app)
+    - [Music Player](#music-player)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
 
 ## Projects
 
@@ -23,7 +25,7 @@ The Image Gallery project showcases a collection of images in a responsive grid 
   - Image hover effects with smooth transitions.
   - Clean and modern design.
 
-- **Demo**: [Image Gallery](https://github.com/TracyK10/CodeAlpha_frontend_internship_tasks/tree/main/image-gallery)
+- **Demo**: [Image Gallery](https://image-gallery-otthh6tyt-tracyk10s-projects.vercel.app/)
 
 ### Calculator App
 
@@ -34,7 +36,7 @@ The Calculator App is a simple yet functional calculator built using React and V
   - Clear button to reset the input.
   - Responsive design.
 
-- **Demo**: [Calculator App](https://github.com/TracyK10/CodeAlpha_frontend_internship_tasks/tree/main/calculator-app)
+- **Demo**: [Calculator App](https://calculator-3892g7lcc-tracyk10s-projects.vercel.app/)
 
 ### Music Player
 
@@ -45,7 +47,7 @@ The Music Player is an upcoming project that will be developed using React. It w
   - Playlist management.
   - Responsive design.
 
-- **Demo**: (Link will be added upon completion)
+- **Demo**: [Music Player](https://music-player-ten-delta.vercel.app/)
 
 ## Installation
 

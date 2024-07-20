@@ -4,15 +4,21 @@ This project is a Music Player application created as part of a frontend interns
 
 ## Table of Contents
 
-- [Demo](#demo)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
+- [Music Player App](#music-player-app)
+  - [Table of Contents](#table-of-contents)
+  - [Demo](#demo)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Code Overview](#code-overview)
+    - [React Component](#react-component)
+    - [CSS](#css)
+  - [How it looks like](#how-it-looks-like)
+  - [License](#license)
 
 ## Demo
 
-You can view a live demo of the music player app [here](https://github.com/TracyK10/CodeAlpha_frontend_internship_tasks/tree/main/music-player).
+You can view a live demo of the music player app [here](https://music-player-ten-delta.vercel.app/).
 
 ## Features
 

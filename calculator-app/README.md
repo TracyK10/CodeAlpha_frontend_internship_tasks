@@ -4,15 +4,21 @@ This project is a simple calculator application created as part of a frontend in
 
 ## Table of Contents
 
-- [Demo](#demo)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
+- [Calculator App](#calculator-app)
+  - [Table of Contents](#table-of-contents)
+  - [Demo](#demo)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Code Overview](#code-overview)
+    - [React Component](#react-component)
+    - [CSS](#css)
+  - [How it looks like](#how-it-looks-like)
+  - [License](#license)
 
 ## Demo
 
-You can view a live demo of the calculator app [here](https://github.com/TracyK10/CodeAlpha_frontend_internship_tasks/tree/main/calculator-app).
+You can view a live demo of the calculator app [here](https://calculator-3892g7lcc-tracyk10s-projects.vercel.app/).
 
 ## Features
 

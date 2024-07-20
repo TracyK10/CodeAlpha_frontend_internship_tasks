@@ -4,15 +4,21 @@ This project is a simple image gallery created as part of a frontend internship 
 
 ## Table of Contents
 
-- [Demo](#demo)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
+- [Image Gallery](#image-gallery)
+  - [Table of Contents](#table-of-contents)
+  - [Demo](#demo)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Code Overview](#code-overview)
+    - [HTML](#html)
+    - [CSS](#css)
+  - [How it looks like](#how-it-looks-like)
+  - [License](#license)
 
 ## Demo
 
-You can view a live demo of the image gallery [here](https://github.com/TracyK10/CodeAlpha_frontend_internship_tasks/tree/main/image-gallery).
+You can view a live demo of the image gallery [here](https://image-gallery-otthh6tyt-tracyk10s-projects.vercel.app/).
 
 ## Features
 
